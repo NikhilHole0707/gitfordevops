@@ -1,0 +1,43 @@
+ls testing.py                                             
+   7 ls -l                                                     
+   8 ls -l                                                     
+   9 cls                                                       
+  10 rm testing.py                                             
+  11 ls                                                        
+  12 gitinit                                                   
+  13 git init                                                  
+  14 git init                                                  
+  15 ls -a                                                     
+  16 ls                                                        
+  17 ls                                                        
+  18 testing.py                                                
+  19 testing python.py                                         
+  20 ls                                                        
+  21 python testing.py                                         
+  22 rm testing.py                                             
+  23 ls                                                        
+  24 git init                                                  
+  25 ls                                                        
+  26 git status                                                
+  27 ls                                                        
+  28 ls                                                        
+  29 git status                                                
+  30 git status                                                
+  31 git add testing.py                                        
+  32 ls                                                        
+  33 git status                                                
+  34 git rm --cached testing.py                                
+  35 ls                                                        
+  36 cls                                                       
+  37 git add .                                                 
+  38 git status                                                
+  39 git commit -m "Added testing file"                        
+  40 git status                                                
+  41 rm testing.py                                             
+  42 ls                                                        
+  43 git status                                                
+  44 git restore testing.py                                    
+  45 ls                                                        
+  46 ls                                                        
+  47 cls                                                       
+  48 git status 
